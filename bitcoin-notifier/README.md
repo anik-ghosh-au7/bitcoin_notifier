@@ -51,3 +51,11 @@ Following command on terminal will uninstall bitcoin-notifier package/module fro
 ```
 pip3 uninstall bitcoin-notifier
 ```
+
+### Join this telegram channel to get the updates :
+
+Following is the invite link
+
+```
+telegram.me/bitcoin_notifications
+```
