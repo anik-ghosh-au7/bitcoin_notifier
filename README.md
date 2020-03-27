@@ -34,7 +34,7 @@ The utils.py file consists of the following functions,
 	4. run() : This is the main runner function which is called from the utils.main(), it runs for the time interval and threshold passed as arguments from there.
 
 
-Other than these files, the pacakge contains the following other files,
+Apart from these, the pacakge contains the following other files,
 
 	1. README.md : This file contains the installation, uninstallation, help otions, argument option details.
 
