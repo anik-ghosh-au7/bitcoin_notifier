@@ -1,4 +1,4 @@
-##Project Summary :
+# Project Summary :
 
 
 In this project my main aim was to build a python module that would be pip installable and will run as a command line tool to fetch live bitcoin prices from CoinMarketCap API and bundle them to send as a message to a public telegram channel and also a notification to my mobile whenever the price falls beyond a particular threshold.
