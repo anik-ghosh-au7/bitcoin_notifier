@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+bitcoin_notifier/__init__.py
+bitcoin_notifier/cli.py
+bitcoin_notifier/utils.py
+bitcoin_notifier.egg-info/PKG-INFO
+bitcoin_notifier.egg-info/SOURCES.txt
+bitcoin_notifier.egg-info/dependency_links.txt
+bitcoin_notifier.egg-info/entry_points.txt
+bitcoin_notifier.egg-info/requires.txt
+bitcoin_notifier.egg-info/top_level.txt
