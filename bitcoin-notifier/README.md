@@ -41,7 +41,7 @@ optional arguments:
 Following query on terminal will provide you five prices of Bitcoin at a time at one min interval and whenever it falls below $10000 and emergency notification will be sent.
 
 ```
-bitcoin-notifier -i delhi -t 10000
+bitcoin-notifier -i 1 -t 10000
 ```
 
 ## Un-installation
