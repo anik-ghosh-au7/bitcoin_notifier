@@ -27,6 +27,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -100,5 +101,16 @@
     </state>
     <state width="1419" height="3" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1585238032374" />
     <state width="1419" height="147" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1585238809219" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bitcoin_notifier/utils.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

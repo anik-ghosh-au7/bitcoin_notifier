@@ -3,6 +3,7 @@ MANIFEST.in
 README.md
 setup.py
 bitcoin_notifier/__init__.py
+bitcoin_notifier/__main__.py
 bitcoin_notifier/cli.py
 bitcoin_notifier/utils.py
 bitcoin_notifier.egg-info/PKG-INFO

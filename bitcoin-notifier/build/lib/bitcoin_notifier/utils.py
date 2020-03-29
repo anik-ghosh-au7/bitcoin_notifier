@@ -5,6 +5,7 @@ import time
 from datetime import datetime
 from requests import Session
 
+
 # IFTTT web hook url
 web_hook_url = 'https://maker.ifttt.com/trigger/{}/with/key/m2syzMN9J62HA9Id46Z63e3wvUkpdHj-nDulcfmEpuy'
 

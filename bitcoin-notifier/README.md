@@ -17,7 +17,7 @@ pip3 install -U bitcoin-notifier
 
 ## Usage
 
-Following query on terminal will provide you with all the help options available 
+Following query on cmd (windows) / terminal (linux) will provide you with all the help options available 
 
 ##### Input :
 
@@ -41,7 +41,7 @@ optional arguments:
 Following query on terminal will provide you five prices of Bitcoin at a time at one min interval and whenever it falls below $10000 and emergency notification will be sent.
 
 ```
-bitcoin-notifier -i 1 -t 10000
+python3 bitcoin_notifier -i 1 -t 10000
 ```
 
 ## Un-installation

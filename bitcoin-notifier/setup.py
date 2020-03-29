@@ -12,7 +12,7 @@ def readme():
 # that are needed for running  the package also info about the author
 setup(
     name="bitcoin-notifier",
-    version="1.0.9",
+    version="0.0.3",
     description="A Python package to get bitcoin updates and predictions",
     long_description=readme(),
     long_description_content_type="text/markdown",

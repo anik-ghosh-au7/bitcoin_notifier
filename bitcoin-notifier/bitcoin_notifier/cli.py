@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/python3
 
 import argparse
 from .utils import *
@@ -13,7 +13,7 @@ def main():
                         metavar="interval", default=[1], help="Time interval in minutes")
 
     parser.add_argument("-t", "--threshold", type=int, nargs=1,
-                        metavar="threshold", default=[1], help="Threshold in USD")
+                        metavar="threshold", default=[10000], help="Threshold in USD")
 
     args = parser.parse_args()
 
